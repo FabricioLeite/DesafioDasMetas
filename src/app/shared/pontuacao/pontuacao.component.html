@@ -1,0 +1,25 @@
+<div class="">
+    <div class="container">
+        <table>
+            <thead>
+                <tr>
+                    <td>Nome</td>
+                    <td>Pontos</td>
+                    <td>Escudos Conquistados</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let item of pontuacao.default">
+                    <td>{{item.nome}}</td>
+                    <td>
+                        <div class="pontos {{definePontoCss(item)}}">
+                            <span>{{item.pontos}}</span><span>/{{item.totalPontos}}</span><em class="material-icons">star_rate</em>
+                            <br style="clear: both;"/>
+                        </div>
+                    </td>
+                    <td><app-metas [metasExibir]="item.metas"></app-metas></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

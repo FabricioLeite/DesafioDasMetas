@@ -1,0 +1,74 @@
+.container {
+    overflow-x:auto;
+}
+
+table {
+    width: 100%;
+    
+    thead {
+        background-color: #008b8b;
+        color: #d0ebff;
+        
+        td {
+            padding: 0.3em;
+        }
+    }
+
+    tbody {
+        color: #3b4252;
+        font-size: 0.8em;
+
+        tr:nth-child(even) {background-color: #e5e9f0;}
+    
+        td {
+            padding: 1em;
+        }
+    }
+}
+
+.pontos {
+    color: #f8f9fa;
+    border-radius: 8px;
+    padding: 0.2em;
+    width: 3em;
+
+    span:nth-child(1) {
+        font-size: 1em;
+    }
+    span:nth-child(2) {
+        font-size: 0.6em;
+        color: #69db7c;
+    }
+    em {
+        color: #ffd43b;
+        text-shadow: 2px 2px #fab005;
+        font-size: 1em;
+        padding-left: 0.3em;
+    }
+}
+
+.ponto-verde {
+    background-color: #37b24d;
+    border: 1px solid #2f9e44;
+    border-bottom: 3px solid #2f9e44;
+}
+
+.ponto-cinza {
+    background-color: #afb1af;
+    border: 1px solid #9b9e9b;
+    border-bottom: 3px solid #9b9e9b;
+
+    span:nth-child(2) {
+        color: #e0e0e0;
+    }
+}
+
+.ponto-vermelho {
+    background-color: #b2373d;
+    border: 1px solid #9e2f2f;
+    border-bottom: 3px solid #9e2f2f;
+
+    span:nth-child(2) {
+        color: #df686e;
+    }
+}

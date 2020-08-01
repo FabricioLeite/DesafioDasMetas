@@ -1,0 +1,49 @@
+.metas {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.meta {
+    flex: 1 1;
+    flex-wrap: wrap;
+    min-width: 100px;
+    max-width: 150px;
+    
+    img {
+        width: 100%;
+    }
+
+    :hover {
+        transform: translateY(-7px);
+    }
+}
+.nome {
+    font-size: 0.4em;
+    line-height: 1em;
+    padding-bottom: 5px;
+    padding: 0px 1em 0px 1em;
+    color: #707070;
+}
+
+.pontos {
+    text-align: center;
+    justify-content: center;
+    color: #707070;
+    width: 2em;
+    font-weight: bold;
+    margin: auto;
+
+    span:nth-child(1) {
+        font-size: 0.6em;
+    }
+    @keyframes rotation {
+        100%{ transform:rotatey(360deg); }
+      }
+    em {
+        color: #ffd43b;
+        font-size: 1.2em;
+        padding-left: 0em;
+        padding-top: 3px;
+        animation: rotation 1s infinite linear; 
+    }
+}

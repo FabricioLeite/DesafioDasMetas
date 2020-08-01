@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "nome": "Fabricio Leite",
+        "pontos": 3,
+        "totalPontos": 3,
+        "metas": [
+            1, 2
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "Ryan Kroten",
+        "pontos": 1,
+        "totalPontos": 3,
+        "metas": [
+            1
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "Bia Kroten",
+        "pontos": 0,
+        "totalPontos": 3,"metas": [
+            1
+        ]
+    }
+]

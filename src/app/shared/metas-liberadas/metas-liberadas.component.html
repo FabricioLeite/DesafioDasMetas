@@ -1,0 +1,11 @@
+<div class="metas">
+    <div class="meta" *ngFor="let item of metas.default">
+        <img src="../../../assets/img/{{item.escudo}}">
+        <div class="pontos">
+            <!-- <img src="../../../assets/img/gif_star.gif"> -->
+            <span>{{item.pontos}}</span><em class="material-icons">star_rate</em>
+            <br style="clear: both;"/>
+        </div>
+        <div class="nome">{{item.nome}}</div>
+    </div>
+</div>

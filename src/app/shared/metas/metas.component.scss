@@ -1,0 +1,36 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.restrito {
+    .flex-item {
+        img {
+            max-width: 70px;
+            min-width: 30px;
+        }
+        
+        background-color: orange;
+    }
+}
+.livre {
+    .flex-item {
+        max-width: 140px;
+        background-color: orange;
+    }
+}
+.flex-item {
+    flex: 1 1;
+    flex-wrap: wrap;
+    min-width: 100px;
+    max-width: 80px;
+
+    img {
+        width: 100%;
+        min-width: 30px;
+    }
+
+    :hover {
+        transform: translateY(-7px);
+    }
+}

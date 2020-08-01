@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+@import '~material-design-icons/iconfont/material-icons.css';
+
+html {
+    background-image: url('./assets/img/fundo.jpg');
+}
+
+.material-icons {
+    width: 1em;
+    display: inline-flex;
+    vertical-align: top;
+}
