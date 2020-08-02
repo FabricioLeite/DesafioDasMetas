@@ -2,27 +2,145 @@
     {
         "id": 1,
         "nome": "Fabricio Leite",
-        "pontos": 3,
-        "totalPontos": 3,
-        "metas": [
-            1, 2
-        ]
-    },
-    {
-        "id": 2,
-        "nome": "Ryan Kroten",
-        "pontos": 1,
-        "totalPontos": 3,
-        "metas": [
-            1
-        ]
-    },
-    {
-        "id": 2,
-        "nome": "Bia Kroten",
         "pontos": 0,
-        "totalPontos": 3,"metas": [
-            1
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "Bispo Dossantos",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 3,
+        "nome": "Getúlio Andrade",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 4,
+        "nome": "Sarah Cardoso",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 5,
+        "nome": "Ana Julia Carvalho",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 6,
+        "nome": "Marielle Dresch",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 7,
+        "nome": "Graziela Chilbelbein",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 8,
+        "nome": "Fernanda Szabelski",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 9,
+        "nome": "Carla de Paula",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 10,
+        "nome": "Marcio de Lima",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 11,
+        "nome": "Nathan Santos",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 12,
+        "nome": "Bruno de Souza",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 13,
+        "nome": "Pedro Dossantos",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 14,
+        "nome": "Luiz Mora",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 15,
+        "nome": "Rafael Vieira",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 16,
+        "nome": "Gustavo de Lima",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
         ]
     }
 ]

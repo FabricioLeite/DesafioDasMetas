@@ -1,5 +1,29 @@
 [
     {
+        "id": 5,
+        "nome": "Espiritual - Pessoal",
+        "escudo": "escudo_espiritual_pessoal.png",
+        "pontos": 10
+    },
+    {
+        "id": 6,
+        "nome": "Físico - Pessoal",
+        "escudo": "escudo_fisico_pessoal.png",
+        "pontos": 10
+    },
+    {
+        "id": 7,
+        "nome": "Social - Pessoal",
+        "escudo": "escudo_social_pessoal.png",
+        "pontos": 10
+    },
+    {
+        "id": 8,
+        "nome": "Intelectual - Pessoal",
+        "escudo": "escudo_intelectual_pessoal.png",
+        "pontos": 10
+    },
+    {
         "id": 1,
         "nome": "Frequência no seminário",
         "escudo": "escudo_espiritual_seminario.png",
@@ -16,11 +40,6 @@
         "nome": "Vídeo no seminário",
         "escudo": "escudo_espiritual_video.png",
         "pontos": 3
-    },
-    {
-        "id": 4,
-        "nome": "Frequência na igreja",
-        "escudo": "escudo_espiritual_igreja.png",
-        "pontos": 3
     }
+    
 ]
