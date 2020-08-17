@@ -2,44 +2,67 @@
     {
         "id": 5,
         "nome": "Espiritual - Pessoal",
-        "escudo": "escudo_espiritual_pessoal.png",
+        "escudo": "espiritual_pessoal.png",
         "pontos": 10
     },
     {
         "id": 6,
         "nome": "Físico - Pessoal",
-        "escudo": "escudo_fisico_pessoal.png",
+        "escudo": "fisico_pessoal.png",
         "pontos": 10
     },
     {
         "id": 7,
         "nome": "Social - Pessoal",
-        "escudo": "escudo_social_pessoal.png",
+        "escudo": "social_pessoal.png",
         "pontos": 10
     },
     {
         "id": 8,
         "nome": "Intelectual - Pessoal",
-        "escudo": "escudo_intelectual_pessoal.png",
+        "escudo": "intelectual_pessoal.png",
         "pontos": 10
     },
     {
-        "id": 1,
-        "nome": "Frequência no seminário",
-        "escudo": "escudo_espiritual_seminario.png",
+        "id": 12,
+        "nome": "Ficar 20 min/dia sem celular",
+        "escudo": "intelectual_celular.png",
         "pontos": 3
+    },
+    {
+        "id": 1,
+        "nome": "Frequência no seminário - Set.",
+        "escudo": "espiritual_seminario_set.png",
+        "pontos": 5
     },
     {
         "id": 2,
-        "nome": "Participação no seminário",
-        "escudo": "escudo_espiritual_participacao.png",
-        "pontos": 3
+        "nome": "Participação no seminário - Set.",
+        "escudo": "espiritual_participacao_set.png",
+        "pontos": 5
     },
     {
         "id": 3,
-        "nome": "Vídeo no seminário",
-        "escudo": "escudo_espiritual_video.png",
+        "nome": "Vídeo no seminário - Set.",
+        "escudo": "espiritual_video_set.png",
+        "pontos": 5
+    },
+    {
+        "id": 9,
+        "nome": "Completar 3 gerações",
+        "escudo": "espiritual_arvore_familiar.png",
+        "pontos": 3
+    },
+    {
+        "id": 10,
+        "nome": "Ler 2 discursos da Liahona",
+        "escudo": "espiritual_liahona.png",
+        "pontos": 3
+    },
+    {
+        "id": 11,
+        "nome": "Decorar 13ª regra de fé",
+        "escudo": "espiritual_13_regra.png",
         "pontos": 3
     }
-    
 ]

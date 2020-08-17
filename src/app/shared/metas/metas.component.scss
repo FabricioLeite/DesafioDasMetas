@@ -22,8 +22,9 @@
 .flex-item {
     flex: 1 1;
     flex-wrap: wrap;
-    min-width: 100px;
-    max-width: 80px;
+    width: 4em;
+    min-width: 4em;
+    max-width: 4em;
 
     img {
         width: 100%;

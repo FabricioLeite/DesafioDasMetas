@@ -16,11 +16,9 @@ export class MetasComponent implements OnInit {
 
   ngOnInit(): void {
     this.content = this;
-    console.log('metasExibir = ', this.metasExibir);
     let dogs = this.metas.default.filter((item) => {
       return this.metasExibir.includes(item.id);
     })
-    console.log(dogs);
     this.metas = dogs;
     // this.metas.default = this.metas.default.filter(this.filtro);
   }

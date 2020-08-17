@@ -38,10 +38,9 @@
     {
         "id": 1,
         "nome": "Fabricio Leite",
-        "pontos": 0,
-        "totalPontos": 0,
+        "pontos": 10,
+        "totalPontos": 10,
         "metas": [
-            
         ]
     },
     {
@@ -56,6 +55,15 @@
     {
         "id": 3,
         "nome": "Getúlio Andrade",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 21,
+        "nome": "Giovani Dresch",
         "pontos": 0,
         "totalPontos": 0,
         "metas": [
@@ -81,8 +89,53 @@
         ]
     },
     {
+        "id": 17,
+        "nome": "Isabela Souza",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 18,
+        "nome": "Isabele Mendes",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 20,
+        "nome": "Jennifer Petrowski",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 22,
+        "nome": "João Paulo Raimundo",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
+        "id": 19,
+        "nome": "Juliana Rodrigues",
+        "pontos": 0,
+        "totalPontos": 0,
+        "metas": [
+            
+        ]
+    },
+    {
         "id": 14,
-        "nome": "Luiz Mora",
+        "nome": "Luiz Santiago Mora",
         "pontos": 0,
         "totalPontos": 0,
         "metas": [
