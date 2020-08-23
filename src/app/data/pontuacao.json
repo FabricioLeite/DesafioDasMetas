@@ -65,8 +65,8 @@
     {
         "id": 1,
         "nome": "Fabricio Leite",
-        "pontos": 10,
-        "totalPontos": 10,
+        "pontos": 0,
+        "totalPontos": 67,
         "metas": [
         ]
     },
@@ -82,10 +82,10 @@
     {
         "id": 3,
         "nome": "Getúlio Andrade",
-        "pontos": 0,
-        "totalPontos": 0,
+        "pontos": 6,
+        "totalPontos": 67,
         "metas": [
-            
+            10,11
         ]
     },
     {
